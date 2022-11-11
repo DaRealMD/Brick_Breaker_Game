@@ -1,6 +1,6 @@
 - Hi, I’m @DaRealMD
 - I’m interested in game development
-- I’m currently learning Java
+- I’m currently learning Java and this was made during my studies
 
 <!---
 DaRealMD/DaRealMD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
